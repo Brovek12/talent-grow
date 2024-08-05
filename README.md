@@ -24,3 +24,9 @@ This is a React application built using Vite and Tailwind CSS. It includes multi
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+cd my-react-app
+npm install
+npm run dev
+ 
+
+
